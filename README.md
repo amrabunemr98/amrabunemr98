@@ -2,11 +2,12 @@
 <h1 align="center">Hi 👋, I'm Amr Mohamed</h1>
 <h3 align="center">A passionate DevOps</h3>
 
-![developer](https://github.com/amrabunemr98/amrabunemr98/assets/128842547/a4385408-a892-4c68-a062-d8f2b86a6178)
-![233m04x0r0lv60payria](https://github.com/amrabunemr98/amrabunemr98/assets/128842547/98b8e6eb-e1fa-4004-b423-58791883f5b1)
-
 <div align="center">
 <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/a4385408-a892-4c68-a062-d8f2b86a6178">
+</div>
+
+<div align="center">
+<img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/98b8e6eb-e1fa-4004-b423-58791883f5b1">
 </div>
 
 
