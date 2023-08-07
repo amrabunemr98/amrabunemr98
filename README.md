@@ -11,7 +11,9 @@
  
 
 
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=5B48FB&center=true&multiline=true&width=435&lines=I'm+a+passionate+DevOps+Engineer">
+</div>
 
 
 <h3 align="center">A passionate DevOps</h3>
