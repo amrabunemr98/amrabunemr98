@@ -3,7 +3,7 @@
 <div align="center">
   <br>
   <p style="font-size: 24px; font-weight: bold;">Hi, I'm Amr Mohamed</p>
-  <img src="![hi](https://github.com/amrabunemr98/amrabunemr98/assets/128842547/05e5cea7-29a8-47f1-adae-edbf648b4f43)" alt="Emoji" width="50" height="50">
+  <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/05e5cea7-29a8-47f1-adae-edbf648b4f43" alt="Emoji" width="50" height="50">
 </div>
 
 
