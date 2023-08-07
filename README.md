@@ -4,7 +4,6 @@
   <br>
   Hi 
   <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/38f80388-04d6-4df0-8e47-991f3b18e202" alt="Emoji" width="50" height="50">
-  <br>
   I'm Amr Mohamed 
 </div>
 
