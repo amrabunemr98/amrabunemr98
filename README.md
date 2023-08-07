@@ -2,9 +2,10 @@
 
 <div align="center">
   <br>
-  <p style="font-size: 24px; font-weight: bold;">Hi, I'm Amr Mohamed</p>
-  <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/05e5cea7-29a8-47f1-adae-edbf648b4f43" alt="Emoji" width="50" height="50">
+  <p style="font-size: 24px; font-weight: bold;">Hi <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/5a111529-dd38-4175-9ac6-a749b715150f" alt="Emoji" width="30" height="30"> I'm Amr Mohamed</p>
 </div>
+
+
 
 
 
