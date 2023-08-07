@@ -1,15 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=amrabunemr98&icon=7&color=0)](https://visitcount.itsvg.in)
-- 👋 Hi, I’m Amr Mohamed 
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
 <h1 align="center">Hi 👋, I'm Amr Mohamed</h1>
 <h3 align="center">A passionate DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrabunemr98&label=Profile%20views&color=0e75b6&style=flat" alt="amrabunemr98" /> </p>
+
 - 👀 I’m interested in DevOps.
 - 🌱 I’m currently learning new tools.
 - 📫 How to reach me:  **amr_abunemr16@yahoo.com**
