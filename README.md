@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 <a href="https://www.linkedin.com/in/amr-abunemr/">
-  <i class="fab fa-linkedin"></i> LinkedIn
+  <i class="fab fa-linkedin fa-2x"></i> LinkedIn
 </a>
 
 
