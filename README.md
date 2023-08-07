@@ -1,15 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=amrabunemr98&icon=7&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Amr Mohamed</h1>
-<h3 align="center">A passionate DevOps</h3>
-
-<p align="center">
-  <img src="https://github.com/amrabunemr98/amrabunemr98/blob/main/assets/128842547/d4348fe2-8a6f-488d-b465-c82bc3a72f65.gif" alt="Developer GIF">
-</p>
+<h3 align="center">A passionate DevOps</h3> ![developer](https://github.com/amrabunemr98/amrabunemr98/assets/128842547/a4385408-a892-4c68-a062-d8f2b86a6178)
 
 
-<div align="center">
-  <h1 style="color: red;">![233m04x0r0lv60payria](https://github.com/amrabunemr98/amrabunemr98/assets/128842547/ff412515-8f99-443e-816a-d4675c2935c1)</h1>
-</div>
+
 
 
 
