@@ -5,8 +5,11 @@
   <h1 style="font-weight: bold; font-size: 36px;">Hi <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/5a111529-dd38-4175-9ac6-a749b715150f" alt="Emoji" width="30" height="30"> I'm Amr Mohamed</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0E1CF7&center=true&multiline=true&width=435&lines=I'm+a+passionate+DevOps+Engineer;dedicated+to+streamlining+software+;development+and+deployment+processes+for+seamless%2C+efficient%2C+and+reliable+delivery.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0E1CF7&center=true&multiline=true&width=435&lines=I'm+a+passionate+DevOps+Engineer)](https://git.io/typing-svg)
 
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0E1CF7&center=true&multiline=true&width=435&lines=I'm+a+passionate+DevOps+Engineer)](https://git.io/typing-svg)
+</p>
 
 
 <h3 align="center">A passionate DevOps</h3>
