@@ -1,5 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=amrabunemr98&icon=7&color=0)](https://visitcount.itsvg.in)
-<h1 align="center">Hi 👋, I'm Amr Mohamed</h1>
+<h1 align="center">Hi ![hi](https://github.com/amrabunemr98/amrabunemr98/assets/128842547/40276042-4089-4ebf-9a40-aba52c47ec96)
+, I'm Amr Mohamed</h1>
 <h3 align="center">A passionate DevOps</h3>
 
 <div align="center">
