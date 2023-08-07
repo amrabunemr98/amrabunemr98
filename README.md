@@ -2,10 +2,10 @@
 
 <div align="center">
   <br>
-  Hi 
-  <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/38f80388-04d6-4df0-8e47-991f3b18e202" alt="Emoji" width="50" height="50">
-  I'm Amr Mohamed 
+  <p style="font-size: 24px; font-weight: bold;">Hi, I'm Amr Mohamed</p>
+  <img src="https://github.com/amrabunemr98/amrabunemr98/raw/main/assets/128842547/38f80388-04d6-4df0-8e47-991f3b18e202.png" alt="Emoji" width="50" height="50">
 </div>
+
 
 <h3 align="center">A passionate DevOps</h3>
 
