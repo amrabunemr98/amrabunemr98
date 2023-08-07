@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DevOps</h3>
 
 <p align="center">
-  <img src=![developer](https://github.com/amrabunemr98/amrabunemr98/assets/128842547/3213266d-05c1-4d51-b832-90ec9679db35)>
+  <img src="https://github.com/amrabunemr98/amrabunemr98/raw/main/assets/128842547/3213266d-05c1-4d51-b832-90ec9679db35.gif" alt="Developer GIF">
 </p>
 
 
