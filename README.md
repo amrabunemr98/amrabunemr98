@@ -5,7 +5,7 @@
 
 <div align="center">
   <br>
-  <h2 style="font-weight: bold;">Hi <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/5a111529-dd38-4175-9ac6-a749b715150f" alt="Emoji" width="30" height="30"> I'm Amr Mohamed</h2>
+  <h2 style="font-weight: bold; font-size: 36px;">Hi <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/5a111529-dd38-4175-9ac6-a749b715150f" alt="Emoji" width="30" height="30"> I'm Amr Mohamed</h2>
 </div>
 
 
