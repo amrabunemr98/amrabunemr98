@@ -2,8 +2,12 @@
 
 <div align="center">
   <br>
-  <p style="font-size: 24px; font-weight: bold;">Hi <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/5a111529-dd38-4175-9ac6-a749b715150f" alt="Emoji" width="30" height="30"> I'm Amr Mohamed</p>
+  <p style="font-size: 24px; font-weight: bold;">
+    Hi <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/5a111529-dd38-4175-9ac6-a749b715150f" alt="Emoji" width="30" height="30"> I'm Amr Mohamed
+  </p>
 </div>
+
+
 
 
 
