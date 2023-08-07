@@ -14,14 +14,6 @@
 
 
 
-
-
-
-<p align="center">
-  (https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0E1CF7&center=true&multiline=true&width=435&lines=I'm+a+passionate+DevOps+Engineer)(https://git.io/typing-svg)
-</p>
-
-
 <h3 align="center">A passionate DevOps</h3>
 
 <div align="center">
