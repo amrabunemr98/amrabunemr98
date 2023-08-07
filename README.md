@@ -7,57 +7,8 @@
 
 
 
-<div align="center">
-  <p style="font-size: 24px; font-weight: bold;">
-    I'm a passionate DevOps Engineer
-  </p>
-  <div style="text-align: center; font-size: 18px; font-family: 'Fira Code', monospace;">
-    <span>|</span>
-    <span id="typing-text">Typing...</span>
-  </div>
-</div>
-
-<script>
-  const typingText = document.getElementById('typing-text');
-  const messages = [
-    "Automating workflows",
-    "Implementing CI/CD",
-    "Optimizing deployments"
-    // Add more phrases here
-  ];
-
-  let messageIndex = 0;
-  let charIndex = 0;
-
-  function type() {
-    if (charIndex < messages[messageIndex].length) {
-      typingText.textContent += messages[messageIndex].charAt(charIndex);
-      charIndex++;
-      setTimeout(type, 100); // Adjust typing speed here
-    } else {
-      setTimeout(erase, 1500); // Wait before erasing
-    }
-  }
-
-  function erase() {
-    if (charIndex > 0) {
-      typingText.textContent = typingText.textContent.slice(0, -1);
-      charIndex--;
-      setTimeout(erase, 50); // Adjust erasing speed here
-    } else {
-      messageIndex = (messageIndex + 1) % messages.length;
-      setTimeout(type, 500); // Delay before typing next message
-    }
-  }
-
-  type();
-</script>
-
-
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0E1CF7&center=true&multiline=true&width=435&lines=I'm+a+passionate+DevOps+Engineer)](https://git.io/typing-svg)
+ 
 
 
 
