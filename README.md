@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Amr Mohamed</h1>
 <h3 align="center">A passionate DevOps</h3>
 
-![developer](https://github.com/amrabunemr98/amrabunemr98/assets/128842547/3213266d-05c1-4d51-b832-90ec9679db35)
+<h3 align="center">![developer](https://github.com/amrabunemr98/amrabunemr98/assets/128842547/3213266d-05c1-4d51-b832-90ec9679db35)</h3>
+
 
 
 
