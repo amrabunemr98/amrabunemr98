@@ -1,10 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=amrabunemr98&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github.com/amrabunemr98/amrabunemr98/raw/main/assets/128842547/40276042-4089-4ebf-9a40-aba52c47ec96.png" alt="Emoji" width="50" height="50">
+<div align="center">
+  <img src="https://github.com/amrabunemr98/amrabunemr98/assets/128842547/38f80388-04d6-4df0-8e47-991f3b18e202" alt="Emoji" width="50" height="50">
   <br>
   Hi!
-</p>
+</div>
 
 <h3 align="center">A passionate DevOps</h3>
 
