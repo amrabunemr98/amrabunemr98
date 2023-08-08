@@ -23,7 +23,7 @@
 
 
 - 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning new tools.
+- 🌱 I’m currently learning new tools in DevOps.
 - 📧 How to reach me:  **amr_abunemr16@yahoo.com**
 
 <h3 align="left">📫 Connect with me:</h3>
